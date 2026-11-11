@@ -1,0 +1,20 @@
+Uta Lune includes the following third-party software in its Windows installer.
+
+mpv — media player (mpv.exe, d3dcompiler_43.dll)
+  License: GNU GPL v2 or later (parts LGPL)
+  Source code: https://github.com/mpv-player/mpv
+  Windows build: https://github.com/shinchiro/mpv-winbuild-cmake
+
+yt-dlp — YouTube stream extractor (yt-dlp.exe)
+  License: The Unlicense
+  Source code: https://github.com/yt-dlp/yt-dlp
+
+The Android app uses:
+  AndroidX Media3 (Apache License 2.0) — https://github.com/androidx/media
+  Material Components for Android (Apache License 2.0) — https://github.com/material-components/material-components-android
+  youtubedl-android (GPL-3.0) — https://github.com/JunkFood02/youtubedl-android
+
+Online services used at runtime:
+  YouTube (streams, oEmbed titles, thumbnails), LRCLIB (lyrics, https://lrclib.net),
+  Google dictionary endpoint (romanized readings), Supabase (optional playlist sync).
+Icons: Material Design Icons / Material Symbols (Apache License 2.0).
