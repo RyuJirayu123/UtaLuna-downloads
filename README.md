@@ -2,18 +2,18 @@
 
 เครื่องเล่นเพลงจาก YouTube สำหรับ Windows และ Android ฟังเฉพาะเสียง จัดเพลย์ลิสต์ ค้นหาเพลง สุ่มเพลง เล่นวน และซิงก์เพลย์ลิสต์ข้ามเครื่องผ่านบัญชีของคุณ
 
-## ดาวน์โหลด v1.6.1
+## ดาวน์โหลด v1.7.0
 
 | อุปกรณ์ | ดาวน์โหลด | รองรับ |
 |---|---|---|
-| Windows | [ดาวน์โหลดตัวติดตั้ง Windows](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.6.1/UtaLune-Setup-1.6.1.exe) | Windows 10/11 แบบ 64-bit |
-| Android | [ดาวน์โหลด APK](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.6.1/UtaLune-1.6.1.apk) | Android 8.0 ขึ้นไป |
+| Windows | [ดาวน์โหลดตัวติดตั้ง Windows](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.7.0/UtaLune-Setup-1.7.0.exe) | Windows 10/11 แบบ 64-bit |
+| Android | [ดาวน์โหลด APK](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.7.0/UtaLune-1.7.0.apk) | Android 8.0 ขึ้นไป |
 
 [ดู Release ล่าสุดและไฟล์ดาวน์โหลดทั้งหมด](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/latest)
 
 ## ติดตั้งบน Windows
 
-1. ดาวน์โหลดไฟล์ UtaLune-Setup-1.6.1.exe แล้วเปิดไฟล์
+1. ดาวน์โหลดไฟล์ UtaLune-Setup-1.7.0.exe แล้วเปิดไฟล์
 2. ทำตามหน้าต่างติดตั้ง ตัวติดตั้งรวม mpv และ yt-dlp แล้ว
 3. เปิด Uta Lune จากไอคอนที่ติดตั้ง
 
@@ -24,19 +24,21 @@ Windows อาจแสดง SmartScreen เนื่องจากตัว�
 
 ## ติดตั้งบน Android
 
-1. ดาวน์โหลด UtaLune-1.6.1.apk บนมือถือ
+1. ดาวน์โหลด UtaLune-1.7.0.apk บนมือถือ
 2. เปิดไฟล์และอนุญาตการติดตั้งแอปจากแหล่งนี้เมื่อ Android ขอ
 3. เปิด Uta Lune
 
 รุ่นก่อน 1.2.0 ใช้ signing key คนละชุด ต้องส่งออกเพลย์ลิสต์ไว้ก่อนถอนรุ่นเก่าแล้วติดตั้งรุ่นใหม่
 รุ่น 1.2.0 ขึ้นไปใช้ signing key เดียวกับรุ่นนี้
 
-## หน้าตารุ่น 1.6.1
+## หน้าตารุ่น 1.7.0
 
 เลือกธีมสว่างหรือธีมมืดได้จากเมนูของแอป แอปจะจำธีมแยกในแต่ละเครื่อง
 Windows มีปุ่มเลือกธีมที่แถบด้านบน ส่วน Android เลือกได้จากเมนู ⋯
 
 Windows มีจุดจับลากข้างเลขเพลง เส้นบอกตำแหน่งวาง และแอนิเมชันตอบสนองเมื่อใช้งาน
+
+Windows เปิดเครื่องเล่นเต็มจอได้โดยกดปกหรือชื่อเพลงในแถบล่าง มีรายการเพลงถัดไปที่กดเล่นและลากจัดลำดับได้ กดปุ่มย่อมุมซ้ายบนหรือ Esc เพื่อกลับหน้าเพลย์ลิสต์
 
 ## การใช้งาน
 
