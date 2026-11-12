@@ -18,3 +18,9 @@ Online services used at runtime:
   YouTube (streams, oEmbed titles, thumbnails), LRCLIB (lyrics, https://lrclib.net),
   Google dictionary endpoint (romanized readings), Supabase (optional playlist sync).
 Icons: Material Design Icons / Material Symbols (Apache License 2.0).
+
+Bundled typefaces (SIL Open Font License 1.1):
+  Noto Looped Thai — https://github.com/notofonts/noto-fonts
+  Source Serif 4 — https://github.com/adobe-fonts/source-serif
+  IBM Plex Mono — https://github.com/google/fonts/tree/main/ofl/ibmplexmono
+  License texts are included in fonts/ on Windows and assets/fonts/ on Android.
