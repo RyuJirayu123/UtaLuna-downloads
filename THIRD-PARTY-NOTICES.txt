@@ -24,4 +24,5 @@ Bundled typefaces (SIL Open Font License 1.1):
   Source Serif 4 — https://github.com/adobe-fonts/source-serif
   IBM Plex Mono — https://github.com/google/fonts/tree/main/ofl/ibmplexmono
   Anuphan — https://github.com/cadsondemak/Anuphan
+  Noto Sans JP — https://github.com/notofonts/noto-cjk
   License texts are included in fonts/ on Windows and assets/fonts/ on Android.
