@@ -1,55 +1,119 @@
-# Uta Lune
+<p align="center">
+  <img src="media/uta-lune-banner.png" alt="Uta Lune — เพลงที่ชอบ อยู่กับคุณทุกที่" width="100%">
+</p>
 
-เครื่องเล่นเพลงจาก YouTube สำหรับ Windows และ Android ฟังเฉพาะเสียง จัดเพลย์ลิสต์ ค้นหาเพลง สุ่มเพลง เล่นวน และซิงก์เพลย์ลิสต์ข้ามเครื่องผ่านบัญชีของคุณ
+<p align="center">
+  เครื่องเล่นเสียงจาก YouTube สำหรับ Windows และ Android<br>
+  รวมเพลงไว้ในเพลย์ลิสต์ ฟังพร้อมเนื้อเพลง และซิงก์ข้ามเครื่องผ่านบัญชีของคุณ
+</p>
 
-## ดาวน์โหลด v1.9.1
+<p align="center">
+  <a href="https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-Setup-1.9.1.exe"><img src="media/download-windows.png" alt="ดาวน์โหลดตัวติดตั้ง Windows" width="256"></a>
+  <a href="https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-1.9.1.apk"><img src="media/download-android.png" alt="ดาวน์โหลด Android APK" width="256"></a>
+</p>
 
-| อุปกรณ์ | ดาวน์โหลด | รองรับ |
-|---|---|---|
-| Windows | [ดาวน์โหลดตัวติดตั้ง Windows](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-Setup-1.9.1.exe) | Windows 10/11 แบบ 64-bit |
-| Android | [ดาวน์โหลด APK](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-1.9.1.apk) | Android 8.0 ขึ้นไป |
+<p align="center">
+  <strong>v1.9.1</strong> · Windows 10/11 แบบ 64-bit · Android 8.0 ขึ้นไป<br>
+  <a href="https://github.com/RyuJirayu123/UtaLuna-downloads/releases/latest">มีอะไรใหม่</a> ·
+  <a href="https://github.com/RyuJirayu123/UtaLuna-downloads/releases">ดูทุกรุ่น</a> ·
+  <a href="https://github.com/RyuJirayu123/UtaLuna-downloads/issues">แจ้งปัญหา</a>
+</p>
 
-[ดู Release ล่าสุดและไฟล์ดาวน์โหลดทั้งหมด](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/latest)
+## เปิดเพลง แล้วปล่อยใจ
 
-## ติดตั้งบน Windows
+<table>
+  <tr>
+    <td width="50%"><strong>เพลงโปรดในที่เดียว</strong></td>
+    <td width="50%"><strong>เนื้อเพลงพร้อมคำอ่าน</strong></td>
+  </tr>
+  <tr>
+    <td><a href="media/library-dark.png"><img src="media/library-dark.png" alt="หน้าเพลย์ลิสต์ Uta Lune บน Windows ธีมมืด พร้อมปกเพลงและแถบควบคุม" width="100%"></a></td>
+    <td><a href="media/lyrics-dark.png"><img src="media/lyrics-dark.png" alt="หน้าเนื้อเพลงบน Windows พร้อมคำอ่าน ปุ่มค้นหาเอง และปุ่มเลือกภาษา" width="100%"></a></td>
+  </tr>
+</table>
 
-1. ดาวน์โหลดไฟล์ UtaLune-Setup-1.9.1.exe แล้วเปิดไฟล์
-2. ทำตามหน้าต่างติดตั้ง ตัวติดตั้งรวม mpv และ yt-dlp แล้ว
-3. เปิด Uta Lune จากไอคอนที่ติดตั้ง
+ภาพจากแอป Windows โดยใช้เพลย์ลิสต์และเนื้อเพลงสาธิต กดภาพเพื่อดูขนาดเต็มได้
 
-ตัวติดตั้งทำงานแบบรายผู้ใช้ และติดตั้งไว้ที่ %LOCALAPPDATA%\Programs\Uta Lune
-ถอนการติดตั้งได้จาก Settings > Apps
+- **ฟังเฉพาะเสียง** — เพิ่มลิงก์ YouTube แล้วสตรีมเพลงผ่านแอป
+- **จัดเพลงในแบบของคุณ** — สร้างเพลย์ลิสต์ ค้นหาเพลง สุ่มเพลง และเล่นวน
+- **เพลงชุดเดียวกันทั้งมือถือและคอม** — ใช้บัญชีเดียวกันเพื่อซิงก์เพลย์ลิสต์
+- **ฟังพร้อมเนื้อเพลง** — แสดงเนื้อเพลงตามเวลาและคำอ่านเมื่อแหล่งข้อมูลรองรับ
+- **เลือกบรรยากาศได้** — ธีมสว่าง/มืด พร้อมเครื่องเล่นเต็มจอและพื้นหลังจากปกเพลง
+
+<details>
+<summary><strong>ดูธีมสว่าง</strong></summary>
+
+<p><img src="media/library-light.png" alt="หน้าเพลย์ลิสต์ Uta Lune บน Windows ธีมสว่าง" width="100%"></p>
+
+เปลี่ยนธีมได้จากแถบด้านบนบน Windows หรือเมนู ⋯ บน Android แอปจะจำธีมแยกในแต่ละเครื่อง
+
+</details>
+
+## เริ่มฟังในไม่กี่ขั้นตอน
+
+<details>
+<summary><strong>ติดตั้งบน Windows</strong></summary>
+
+1. [ดาวน์โหลด UtaLune-Setup-1.9.1.exe](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-Setup-1.9.1.exe) แล้วเปิดไฟล์
+2. ทำตามหน้าต่างติดตั้ง ชุดติดตั้งรวม mpv และ yt-dlp แล้ว
+3. เปิด Uta Lune แล้ววางลิงก์ YouTube เพื่อเพิ่มเพลง
+
+ตัวติดตั้งทำงานแบบรายผู้ใช้ ไม่ต้องใช้สิทธิ์ผู้ดูแลระบบ และติดตั้งไว้ที่ `%LOCALAPPDATA%\Programs\Uta Lune` ถอนการติดตั้งได้จาก Settings → Apps
 
 Windows อาจแสดง SmartScreen เนื่องจากตัวติดตั้งยังไม่มีใบรับรองดิจิทัล
 
-## ติดตั้งบน Android
+</details>
 
-1. ดาวน์โหลด UtaLune-1.9.1.apk บนมือถือ
+<details>
+<summary><strong>ติดตั้งบน Android</strong></summary>
+
+1. [ดาวน์โหลด UtaLune-1.9.1.apk](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/download/v1.9.1/UtaLune-1.9.1.apk) บนมือถือ
 2. เปิดไฟล์และอนุญาตการติดตั้งแอปจากแหล่งนี้เมื่อ Android ขอ
-3. เปิด Uta Lune
+3. เปิด Uta Lune แล้วเพิ่มเพลงด้วยลิงก์ YouTube
 
-รุ่นก่อน 1.2.0 ใช้ signing key คนละชุด ต้องส่งออกเพลย์ลิสต์ไว้ก่อนถอนรุ่นเก่าแล้วติดตั้งรุ่นใหม่
-รุ่น 1.2.0 ขึ้นไปใช้ signing key เดียวกับรุ่นนี้
+รุ่น 1.2.0 ขึ้นไปใช้ signing key เดียวกัน จึงติดตั้งอัปเดตทับได้ สำหรับรุ่นก่อน 1.2.0 ให้ส่งออกเพลย์ลิสต์ก่อนถอนรุ่นเก่าแล้วติดตั้งรุ่นใหม่
 
-## หน้าตารุ่น 1.9.1
+</details>
 
-เลือกธีมสว่างหรือธีมมืดได้จากเมนูของแอป แอปจะจำธีมแยกในแต่ละเครื่อง
-Windows มีปุ่มเลือกธีมที่แถบด้านบน ส่วน Android เลือกได้จากเมนู ⋯
+## คำถามที่พบบ่อย
 
-Windows มีจุดจับลากข้างเลขเพลง เส้นบอกตำแหน่งวาง และแอนิเมชันตอบสนองเมื่อใช้งาน
+<details>
+<summary><strong>ต้องเปิดอินเทอร์เน็ตไหม?</strong></summary>
 
-รุ่นนี้ใช้สีเทา/ขาวกับสีเน้นชมพูแดงตาม Figma ล่าสุด ทั้ง Windows และ Android พร้อมพื้นหลังปกเบลอเคลื่อนไหวช้า ๆ การเฟดเปลี่ยนปก และเนื้อเพลงที่ค่อย ๆ ขยายบรรทัดปัจจุบัน แอปหยุดพื้นหลังเคลื่อนไหวเมื่อย่อหรือพัก และรองรับการปิดแอนิเมชันของระบบ
+ต้องเชื่อมต่ออินเทอร์เน็ตเพื่อสตรีมเสียง โหลดข้อมูลเนื้อเพลง และซิงก์เพลย์ลิสต์ การเพิ่มเพลงลงเพลย์ลิสต์เป็นการเก็บลิงก์ไว้ ไม่ได้ดาวน์โหลดเพลงสำหรับฟังออฟไลน์
 
-Windows กดปกหรือชื่อเพลงในแถบล่างเพื่อเปิดเครื่องเล่นกลางจอ กดไอคอนเนื้อเพลงมุมขวาบนหรือ L เพื่อสลับปกกับเนื้อเพลงเต็มจอพร้อมคำอ่าน คลิกขวาปุ่มเนื้อเพลงเพื่อตั้งค่าคำอ่านหรือค้นหาเอง และกด Esc เพื่อกลับหน้าเพลย์ลิสต์
+</details>
 
-Windows หน้าเนื้อเพลงมีปุ่ม “ค้นหาเอง” และ “ภาษาเนื้อเพลง” ด้านบน ใช้ค้นหาด้วยชื่อเพลง/ศิลปินหรือเลือกภาษาจากคำบรรยาย YouTube เมื่อเนื้อเพลงไม่ตรง
+<details>
+<summary><strong>ต้องมีบัญชีหรือเปล่า?</strong></summary>
 
-## การใช้งาน
+ฟังเพลงและจัดเพลย์ลิสต์ในเครื่องได้โดยไม่ต้องเข้าสู่ระบบ หากต้องการซิงก์เพลย์ลิสต์ระหว่างมือถือกับคอม ให้ใช้บัญชีเดียวกันบนทั้งสองเครื่อง การสมัครสมาชิกและส่งอีเมลยืนยันขึ้นอยู่กับการตั้งค่าระบบบัญชี
 
-- เพิ่มเพลงด้วยลิงก์ YouTube แล้วจัดลงเพลย์ลิสต์
-- เชื่อมต่ออินเทอร์เน็ตเพื่อสตรีมเพลง
-- ใช้บัญชีเดียวกันบนมือถือและคอมเพื่อซิงก์เพลย์ลิสต์
-- เนื้อเพลงและคำอ่านจะแสดงเมื่อบริการต้นทางมีข้อมูล
-- การสมัครสมาชิกและส่งอีเมลยืนยันขึ้นอยู่กับการตั้งค่าระบบบัญชี
+</details>
 
-ส่วนประกอบภายนอกและแหล่งซอร์สโค้ดของส่วนประกอบเหล่านั้นอยู่ใน [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)
+<details>
+<summary><strong>เนื้อเพลงไม่ตรงหรือเป็นคนละภาษา ทำยังไง?</strong></summary>
+
+บน Windows กด **ค้นหาเอง** ที่ด้านบนของหน้าเนื้อเพลง แล้วกรอกชื่อเพลงกับศิลปิน หรือกด **ภาษาเนื้อเพลง** เพื่อเลือกจากคำบรรยายที่มีในวิดีโอ YouTube นั้น
+
+บน Android ใช้ปุ่ม **ค้นหาเอง** ในหน้าเนื้อเพลง เนื้อเพลงตามเวลาและคำอ่านจะแสดงเมื่อบริการต้นทางมีข้อมูล
+
+</details>
+
+<details>
+<summary><strong>เปิดเครื่องเล่นเต็มจอและใช้คีย์ลัดบน Windows ยังไง?</strong></summary>
+
+กดปกหรือชื่อเพลงในแถบล่างเพื่อเปิดเครื่องเล่นเต็มจอ กด **L** เพื่อสลับปกกับเนื้อเพลง และกด **Esc** เพื่อกลับหน้าเพลย์ลิสต์
+
+| คีย์ | การใช้งาน |
+|---|---|
+| Space | เล่น / พัก |
+| Ctrl + ← / → | เพลงก่อนหน้า / ถัดไป |
+| Ctrl + F | ค้นหาในเพลย์ลิสต์ |
+| S / R | สุ่มเพลง / เล่นวน |
+
+</details>
+
+---
+
+[อัปเดตล่าสุด](https://github.com/RyuJirayu123/UtaLuna-downloads/releases/latest) · [แจ้งปัญหา](https://github.com/RyuJirayu123/UtaLuna-downloads/issues) · [เครดิตและส่วนประกอบภายนอก](THIRD-PARTY-NOTICES.txt)
